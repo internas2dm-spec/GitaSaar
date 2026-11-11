@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.GitaSaar" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#B45A24</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FFF8EA</item>
+        <item name="android:navigationBarColor">#FFF8EA</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
